@@ -1,0 +1,7 @@
+organization=karthikeyan1198
+projectKey=Karthikeyan1198_productrepo
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8621
+dashboardUrl=https://sonarcloud.io/dashboard?id=Karthikeyan1198_productrepo
+ceTaskId=AXKn6KFmKYjKTfspkVmB
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXKn6KFmKYjKTfspkVmB

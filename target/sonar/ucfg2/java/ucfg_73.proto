@@ -1,0 +1,39 @@
+
+kcom.management.ProductMS.controller.ProductController#deleteproducts(Ljava/lang/Integer;)Ljava/lang/String;n
+dC:/Users/LENOVO/productrepo/src/main/java/com/management/ProductMS/controller/ProductController.java< <("1*‚
+1n
+dC:/Users/LENOVO/productrepo/src/main/java/com/management/ProductMS/controller/ProductController.java= =(Ø
+Õ
+n
+dC:/Users/LENOVO/productrepo/src/main/java/com/management/ProductMS/controller/ProductController.java= =(
+%0org.slf4j.Logger"__id*E*C7
+5com.management.ProductMS.controller.ProductController"
+loggerÍÊ
+n
+dC:/Users/LENOVO/productrepo/src/main/java/com/management/ProductMS/controller/ProductController.java= =(>
+
+%1void"<org.slf4j.Logger#info(Ljava/lang/String;Ljava/lang/Object;)V*
+
+%0org.slf4j.Logger*)'
+%Request for order removal by buyer {}*
+
+prodidjava.lang.Integer2*info(Ljava/lang/String;Ljava/lang/Object;)ÿ
+ü
+n
+dC:/Users/LENOVO/productrepo/src/main/java/com/management/ProductMS/controller/ProductController.java> >(5
+%2/com.management.ProductMS.service.ProductService"__id*M*K7
+5com.management.ProductMS.controller.ProductController"
+productServiceÒÏ
+n
+dC:/Users/LENOVO/productrepo/src/main/java/com/management/ProductMS/controller/ProductController.java> >('
+
+%3void"Tcom.management.ProductMS.service.ProductService#deleteproducts(Ljava/lang/Integer;)V*7
+5
+%2/com.management.ProductMS.service.ProductService*
+
+prodidjava.lang.Integer2#deleteproducts(Ljava/lang/Integer;)"Š
+n
+dC:/Users/LENOVO/productrepo/src/main/java/com/management/ProductMS/controller/ProductController.java? ?( 
+Deleted successfully:
+prodidjava.lang.IntegerB97
+5com.management.ProductMS.controller.ProductController

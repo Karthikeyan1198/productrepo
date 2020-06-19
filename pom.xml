@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.management</groupId>
-	<artifactId>UserMS</artifactId>
+	<artifactId>ProductMS</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>User-Microservice</name>
+	<name>ProductMS</name>
 	<description>User Buyer  Microservice</description>
 
 	<parent>
@@ -22,6 +22,10 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>8</java.version>
+		<sonar.projectKey>Karthikeyan1198_productrepo</sonar.projectKey>
+  <sonar.organization>karthikeyan1198</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>074b29d46f9e420be101a2a0d4533f08fe269dd9</sonar.login>
 	</properties>
 <dependencyManagement>
 		<dependencies>
